@@ -45,7 +45,7 @@ maven_install(
     artifacts = [
 				"com.google.protobuf:protobuf-java:3.5.1",
 				"org.rocksdb:rocksdbjni:6.28.2",
-        "junit:junit:4.12",
+        "junit:junit:4.13.1",
 				"commons-codec:commons-codec:1.11",
         "org.apache.commons:commons-math3:3.6.1",
 				"io.netty:netty-tcnative-boringssl-static:2.0.25.Final",
