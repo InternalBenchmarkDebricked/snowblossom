@@ -57,7 +57,7 @@ maven_install(
 				"com.lambdaworks:scrypt:1.4.0",
 				"com.google.zxing:javase:3.4.0",
 				"org.slf4j:slf4j-nop:1.7.25",
-				"org.bitcoinj:bitcoinj-core:0.15.10",
+				"org.bitcoinj:bitcoinj-core:0.16",
         "org.bitlet:weupnp:0.1.4",
     ],
     repositories = [
